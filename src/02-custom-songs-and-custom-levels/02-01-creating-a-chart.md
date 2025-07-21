@@ -1,6 +1,6 @@
 # Creating a Chart
 
-To create a chart, access the Chart Editor tool. This can be found in-game by accessing the Debug menu from the main menu (this is bound to `~` by default). You can also access it by adding a keybind for "Debug Chart" in the options menu (not bound by default), then pressing the bound key while playing a song.
+To create a chart, access the Chart Editor tool. This can be found in-game by accessing the Debug menu from the main menu (this is bound to `~` by default). You can also access it by adding a keybind for "Debug Chart" in the options menu (not bound by default), then pressing the bound key while playing a song. This feature is not on mobile builds of the game so later on might have this feature
 
 From here, you can create a new chart from audio files, import one from an older version of the game, or build a chart from existing in-game chart data.
 
